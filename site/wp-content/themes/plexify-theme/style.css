@@ -1,0 +1,21 @@
+/*
+Theme Name:  Plexify
+Theme URI:   https://example.com/plexify
+Author:      abanoub mourice
+Author URI:  https://abanoubmaurice.com/
+Description: ثيم وكالة تسويق رقمي احترافي مع أنيميشن متقدم — Hero مع نصوص ضخمة، سيكشن أعمال بتمرير أفقي، كروت لاصقة، timeline بصاروخ، وسلايدر شهادات.
+Version:     1.0.0
+Requires at least: 6.0
+Requires PHP: 8.0
+License:     GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: plexify
+Tags:        marketing, one-page, dark, animation, custom-logo, custom-menu, featured-images
+*/
+
+/*
+ * ملاحظة: هذا الملف يحتوي على رأس تعريف الثيم فقط.
+ * جميع تعريفات CSS الفعلية موجودة في:
+ *   assets/css/main.css
+ * يتم تحميلها عبر functions.php → wp_enqueue_style()
+ */

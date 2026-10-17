@@ -1,0 +1,17 @@
+# Copyright (C) 2026 Plexify
+# This file is distributed under the GNU General Public License v2.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Plexify 1.0.0\n"
+"Report-Msgid-Bugs-To: https://example.com\n"
+"POT-Creation-Date: 2026-04-03\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-04-03\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"X-Generator: WP-CLI\n"
+"X-Domain: plexify\n"
